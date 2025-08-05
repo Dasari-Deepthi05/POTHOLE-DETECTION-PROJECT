@@ -88,7 +88,7 @@ pillow
 
 ## 👩‍💻 Author
 
-**Sneha Padhi**  
+**Deepthi Dasari**  
 Deep Learning & Computer Vision Enthusiast
 
 ---
